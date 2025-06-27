@@ -1,6 +1,6 @@
 alert('Bem-vindo ao jogo da média!');
 
-let quantidade = parseInt(prompt('Quantos números você deseja digitar?'));
+let quantidade = parseInt(prompt('Ola! Quantos números você deseja digitar?'));
 
 let soma = 0;
 
